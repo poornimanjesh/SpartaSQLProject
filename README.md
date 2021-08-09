@@ -12,11 +12,12 @@ Data Manipulation Languate (DML)
   - INSERT, DELETE, UPDATE
 Data Query Language
   - SELECT
-Normalization
-
-Joins
-  - Inner
-  - Left
+  
+ Normalization
+ Querying with wildcards,
+ arithmetic operations, string and
+ date functions
+ Joins, aliases and sub-queries
 
 
 
