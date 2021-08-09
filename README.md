@@ -10,7 +10,7 @@ Data Definition Language (DDL)
   - CREATE, ALTER, DROP
 Data Manipulation Languate (DML)
   - INSERT, DELETE, UPDATE
-Data Query Language
+Data Query Language(DQL)
   - SELECT
   
  Normalization
